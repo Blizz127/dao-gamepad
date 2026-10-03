@@ -1,0 +1,11 @@
+# Retail payloads (PC or PS3) never go in this repo.
+*.erf
+*.rim
+*.gfx
+*.swf
+*.self
+*.elf
+EBOOT.BIN
+*.exe
+/extracted/
+/work/
