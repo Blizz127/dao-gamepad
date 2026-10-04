@@ -9,3 +9,6 @@ EBOOT.BIN
 *.exe
 /extracted/
 /work/
+/build/
+/compile_flags.txt
+__pycache__/
